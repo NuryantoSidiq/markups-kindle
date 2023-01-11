@@ -1,0 +1,24 @@
+var json_Centroids_1 = {
+"type": "FeatureCollection",
+"name": "Centroids_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": "1", "WADMKC": "Bulu", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 14177.0, "KKWANITA": 14005.0, "JUMLAH": 28182.0 }, "geometry": { "type": "Point", "coordinates": [ 111.37745456731308, -6.855895369687489 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "2", "WADMKC": "Gunem", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 12352.0, "KKWANITA": 12099.0, "JUMLAH": 24451.0 }, "geometry": { "type": "Point", "coordinates": [ 111.476669794282429, -6.8420405335543 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "3", "WADMKC": "Kaliori", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 21293.0, "KKWANITA": 21663.0, "JUMLAH": 42956.0 }, "geometry": { "type": "Point", "coordinates": [ 111.277165184351432, -6.722864466167853 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "4", "WADMKC": "Kragan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 32970.0, "KKWANITA": 32306.0, "JUMLAH": 65276.0 }, "geometry": { "type": "Point", "coordinates": [ 111.552052247920884, -6.682232889234397 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "4", "WADMKC": "Kragan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 32970.0, "KKWANITA": 32306.0, "JUMLAH": 65276.0 }, "geometry": { "type": "Point", "coordinates": [ 111.596336564377964, -6.699621224661456 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "5", "WADMKC": "Lasem", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 25800.0, "KKWANITA": 25455.0, "JUMLAH": 51255.0 }, "geometry": { "type": "Point", "coordinates": [ 111.465614101586098, -6.686321579365685 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "6", "WADMKC": "Pamotan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 25600.0, "KKWANITA": 24715.0, "JUMLAH": 50315.0 }, "geometry": { "type": "Point", "coordinates": [ 111.459846851459119, -6.770861239587536 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "7", "WADMKC": "Pancur", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 15716.0, "KKWANITA": 15367.0, "JUMLAH": 31083.0 }, "geometry": { "type": "Point", "coordinates": [ 111.480928509232044, -6.724897458559082 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "8", "WADMKC": "Rembang", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 45482.0, "KKWANITA": 46073.0, "JUMLAH": 91555.0 }, "geometry": { "type": "Point", "coordinates": [ 111.37290568695154, -6.720599110403044 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "9", "WADMKC": "Sale", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 19584.0, "KKWANITA": 19226.0, "JUMLAH": 38810.0 }, "geometry": { "type": "Point", "coordinates": [ 111.564703769244971, -6.852839050952692 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "10", "WADMKC": "Sarang", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 31290.0, "KKWANITA": 30070.0, "JUMLAH": 61360.0 }, "geometry": { "type": "Point", "coordinates": [ 111.633876408567431, -6.772272541447657 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "11", "WADMKC": "Sedan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 28410.0, "KKWANITA": 27257.0, "JUMLAH": 55667.0 }, "geometry": { "type": "Point", "coordinates": [ 111.583966950736098, -6.741269938605816 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "11", "WADMKC": "Sedan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 28410.0, "KKWANITA": 27257.0, "JUMLAH": 55667.0 }, "geometry": { "type": "Point", "coordinates": [ 111.543114327792495, -6.75622451163251 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "11", "WADMKC": "Sedan", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 28410.0, "KKWANITA": 27257.0, "JUMLAH": 55667.0 }, "geometry": { "type": "Point", "coordinates": [ 111.580291081673238, -6.763356905081735 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "12", "WADMKC": "Sluke", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 14882.0, "KKWANITA": 14730.0, "JUMLAH": 29612.0 }, "geometry": { "type": "Point", "coordinates": [ 111.514530178586639, -6.650196123149987 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "13", "WADMKC": "Sulang", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 19673.0, "KKWANITA": 19673.0, "JUMLAH": 39324.0 }, "geometry": { "type": "Point", "coordinates": [ 111.365398086170927, -6.788517415585448 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": "14", "WADMKC": "Sumber", "WADMKK": "Rembang", "WADMPR": "Jawa Tengah", "KKLAKI": 18478.0, "KKWANITA": 18642.0, "JUMLAH": 37120.0 }, "geometry": { "type": "Point", "coordinates": [ 111.284539106814151, -6.79959652111575 ] } }
+]
+}
